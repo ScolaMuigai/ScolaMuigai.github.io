@@ -1,0 +1,23 @@
+body{
+    background-color:burlywood
+}
+
+h3{
+    color:red
+}
+img{
+    height: 50%;
+    width: 70%;
+}
+p{
+    font-weight: bolder;
+    font-style: italic
+    font-size: 20px;
+    color: blueviolet
+}
+.hobbies{
+    color: darkcyan
+}
+#aspirations{
+    color: blue                                                                                                                                                                                                                                                                                                                                                                                           
+}
